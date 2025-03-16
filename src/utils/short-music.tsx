@@ -25,4 +25,29 @@ const shortMusics: Music[] = [
     name: "sad-melodrama-orchestra",
     source: "/audio/short-music/sad-melodrama-orchestra.mp3",
   },
+  {
+    id: 5,
+    name: "quirky-playful-jazz",
+    source: "/audio/short-music/quirky-playful-jazz.mp3",
+  },
+  {
+    id: 6,
+    name: "chill-lofi",
+    source: "/audio/short-music/chill-lofi.mp3",
+  },
+  {
+    id: 7,
+    name: "dramatic-intense-buildup",
+    source: "/audio/short-music/dramatic-intense-buildup.mp3",
+  },
+  {
+    id: 8,
+    name: "comedic-jazz",
+    source: "/audio/short-music/comedic-jazz.mp3",
+  },
+  {
+    id: 9,
+    name: "nostalgic-orchestra",
+    source: "/audio/short-music/nostalgic-orchestra.mp3",
+  },
 ];
